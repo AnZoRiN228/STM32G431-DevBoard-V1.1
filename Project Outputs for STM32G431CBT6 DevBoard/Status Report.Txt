@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32G431CBT6 DevBoard.PrjPcb]
+   Generated File[PCB G431-RoundHoles.TXT]
+   Generated File[PCB G431-SlotHoles.TXT]
+   Generated File[PCB G431.LDP]
+   Generated File[PCB G431.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:23:02 On 28.06.2023

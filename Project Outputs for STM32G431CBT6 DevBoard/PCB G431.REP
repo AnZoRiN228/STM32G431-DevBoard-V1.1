@@ -1,0 +1,70 @@
+*************************************************************
+FileName = PCB G431.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\profile
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\urvac\OneDrive\Documents\Altium\Projects\STM32G431CBT6 DevBoard\Project Outputs for STM32G431CBT6 DevBoard\odb\matrix\matrix
+
